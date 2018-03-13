@@ -1,0 +1,4 @@
+com/ac/example/docker/model/BookRequest.class
+com/ac/example/docker/model/Author.class
+com/ac/example/docker/model/Book.class
+com/ac/example/docker/model/Genre.class
